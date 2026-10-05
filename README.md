@@ -1,6 +1,4 @@
-# Headers
 # Praktikum Pemerograman Piranti Bergerak
-
 ## Pertemuan 1
 __Materi :__
 ```
