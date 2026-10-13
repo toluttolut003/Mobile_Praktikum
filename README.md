@@ -20,5 +20,25 @@ pengimportan font google
 pengambilan local image dan online image
 
 Tugas : Tambahkan
-dua Card lagi dalam project p2 untuk menampilkan alamat media sosial Anda..[❌]
+dua Card lagi dalam project p2 untuk menampilkan alamat media sosial Anda..[✅]
+```
+## Pertemuan 3
+__Materi :__
+```
+Kalkulator BMI menggunakan Statefull widget
+pembuatan function, dan logika
+
+
+Tugas : 1.     
+Buat tombol "Reset" yang akan
+mengosongkan TextField dan menghilangkan hasil perhitungan.[❌]
+
+
+2.     
+Ubah tampilan menjadi lebih menarik.[❌]
+
+
+3.     
+Buatkan hasil untuk memisahkan BMI
+perempuan dan laki laki...[❌]
 ```
