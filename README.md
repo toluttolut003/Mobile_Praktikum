@@ -31,14 +31,14 @@ pembuatan function, dan logika
 
 Tugas : 1.     
 Buat tombol "Reset" yang akan
-mengosongkan TextField dan menghilangkan hasil perhitungan.[❌]
+mengosongkan TextField dan menghilangkan hasil perhitungan.[✅]
 
 
 2.     
-Ubah tampilan menjadi lebih menarik.[❌]
+Ubah tampilan menjadi lebih menarik.[✅]
 
 
 3.     
 Buatkan hasil untuk memisahkan BMI
-perempuan dan laki laki...[❌]
+perempuan dan laki laki...[✅]
 ```
